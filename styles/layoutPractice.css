@@ -17,6 +17,7 @@ p{
     border: 1px solid #4f5555;
     border-radius: 5px;
     background-color:#4f5555;
+    transition: all 0.5s;
 }
 .pressButton:hover{
     color: #4f5555;
@@ -112,6 +113,7 @@ p{
     margin-bottom: 20px;
     box-sizing: border-box;
     color: slateblue;
+    transition: all 0.5s;
 }
 .flexItem i:hover{
     color:white;
@@ -180,7 +182,7 @@ footer{
     background-color: slateblue;
     font-size: 15px;
     color:white;
-
+    transition: all 0.5s;
 }
 .footerFlexItem:hover{
     color: slateblue;
